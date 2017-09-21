@@ -18,6 +18,8 @@
 	- 更改後，在Client顯示線上清單(動態更新)
 - 傳送訊息
 	- Server以及所有client都可以看到
+## DEMO
+![image](https://github.com/a110605/chatroom/blob/master/pictures/4.gif)
 
 ## 聯絡方式
 若有任何問題或疑問，請不吝用 [a1106052000@gmail.com](a1106052000@gmail.com) 聯絡我
