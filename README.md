@@ -1,6 +1,6 @@
 # Chatroom（聊天室)
 此程式實做server端和client端聊天室的介面，當server和Client程式開始執行，便會使用Java socket進行連接，以進行資料的傳輸，而且server端有multithread的功能，以支援多個client端進行聊天。
-
+![image](https://github.com/a110605/chatroom/blob/master/pictures/screenshot.png)
 
 ## 功能
 ### Server 
